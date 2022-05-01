@@ -25,11 +25,12 @@
   assert प्रवदतु
   begin आरम्भ
   buffer-mode निधानक-दशा
-  buffer-mode? todo
-  case todo (else todo)
-  case-lambda todo
-  cond todo (else todo)
-  define todo
+  buffer-mode? निधानक-दशा?
+  case अवस्था (else अन्य)
+ ;;; lambda = एकार
+  case-lambda अवस्था-एकार
+  cond todo (else अन्य)
+  define परिभाषताम्
   define-condition-type todo
   define-enumeration todo
   define-record-type todo (fields todo
