@@ -16,13 +16,15 @@
 ;;; Use this file as a starting point for translations to your language.
 ;;; Simply replace each todo with a translation of the identifier to its left.
 
+;;; Modifications for Sanskrit language by Sanjay Pande.
+
 (load "international.scm")
 
 (translate-syntax-names
-  and todo
-  assert todo
-  begin todo
-  buffer-mode todo
+  and च
+  assert प्रवदतु
+  begin आरम्भ
+  buffer-mode निधानक-दशा
   buffer-mode? todo
   case todo (else todo)
   case-lambda todo
