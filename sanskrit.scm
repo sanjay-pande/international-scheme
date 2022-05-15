@@ -29,9 +29,9 @@
   case अवस्था (else अन्य)
  ;;; lambda = एकार
   case-lambda अवस्था-एकार
-  cond todo (else अन्य)
+  cond चिनोतु (else अन्य)
   define परिभाषताम्
-  define-condition-type todo
+  define-condition-type परिभाषयितु-नियम्-प्रकार
   define-enumeration todo
   define-record-type todo (fields todo
                            mutable todo
